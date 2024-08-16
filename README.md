@@ -20,4 +20,4 @@
   <li>Responsive Design: Works well on various devices.</li>
 </ul>
 <h1>Installation</h1>
-<p>Clone this repository: git clone </p>
+<p>Clone this repository: git clone https://github.com/leoGoD10/potefolio.git</p>
